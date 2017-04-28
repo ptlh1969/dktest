@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.symbol {
+    width:20px;
+    height:20px;
+    margin-right:20px;
+    float:left;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.serieName {
+    float:left;
+    cursor:pointer;
+}
+
+.item {
+    height:40px;
+    clear:both;
+}
